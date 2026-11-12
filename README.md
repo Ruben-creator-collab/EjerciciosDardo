@@ -9,15 +9,14 @@ Repositorio con mis ejercicios de **Dart** de la asignatura *Introducción a la 
 
 ## 📚 Contenido
 
-Los ejercicios están organizados en relaciones, una por semana:
+Cada relación es un archivo `.dart` dentro de la carpeta [`relaciones/`](./relaciones), y se sube una por semana:
 
-| Relación | Fecha de entrega | Estado | Carpeta |
+| Relación | Fecha de entrega | Estado | Archivo |
 |----------|------------------|--------|---------|
-| Relación 1 | 13 de noviembre | Subida | [`relaciones/`](./relacion1) |
-| Relación 2 | 20 de noviembre | Pendiente | [`relaciones/`](./relacion2) |
-| Relación 3 | 27 de noviembre | Pendiente | [`relaciones/`](./relacion3) |
-| Relación 4 | 4 de diciembre | Pendiente | [`relaciones/`](./relacion4) |
-
+| Relación 1 | 13 de noviembre | Subida | [`relacion1.dart`](./relaciones/relacion1.dart) |
+| Relación 2 | 20 de noviembre | Pendiente | `relacion2.dart` |
+| Relación 3 | 27 de noviembre | Pendiente | `relacion3.dart` |
+| Relación 4 | 4 de diciembre | Pendiente | `relacion4.dart` |
 
 ---
 
@@ -35,28 +34,9 @@ Los ejercicios están organizados en relaciones, una por semana:
 ```
 .
 ├── README.md
-├── relacion1/
-│   ├── ejercicio01.dart
-│   └── ...
-├── relacion2/
-├── relacion3/
-└── relacion4/
+└── relaciones/
+    └── relacion1.dart
 ```
-
----
-
-## ▶️ Cómo ejecutar un ejercicio
-
-1. Tener instalado el [SDK de Dart](https://dart.dev/get-dart).
-2. Clonar el repositorio:
-   ```bash
-   git clone <URL-DEL-REPOSITORIO>
-   cd <nombre-del-repositorio>
-   ```
-3. Ejecutar un ejercicio:
-   ```bash
-   dart run relacion1/ejercicio01.dart
-   ```
 
 ---
 
@@ -69,4 +49,4 @@ Los ejercicios están organizados en relaciones, una por semana:
 
 ## 📬 Contacto
 
-- GitHub: [@Ruben-creator-collab](https://github.com/tu-usuario)
+- GitHub: [@Ruben-creator-collab](https://github.com/Ruben-creator-collab)
