@@ -13,10 +13,10 @@ Los ejercicios están organizados en relaciones, una por semana:
 
 | Relación | Fecha de entrega | Estado | Carpeta |
 |----------|------------------|--------|---------|
-| Relación 1 | 13 de noviembre | Subida | [`relacion1/`](./relacion1) |
-| Relación 2 | 20 de noviembre | Pendiente | [`relacion2/`](./relacion2) |
-| Relación 3 | 27 de noviembre | Pendiente | [`relacion3/`](./relacion3) |
-| Relación 4 | 4 de diciembre | Pendiente | [`relacion4/`](./relacion4) |
+| Relación 1 | 13 de noviembre | Subida | [`relaciones/`](./relacion1) |
+| Relación 2 | 20 de noviembre | Pendiente | [`relaciones/`](./relacion2) |
+| Relación 3 | 27 de noviembre | Pendiente | [`relaciones/`](./relacion3) |
+| Relación 4 | 4 de diciembre | Pendiente | [`relaciones/`](./relacion4) |
 
 
 ---
