@@ -14,7 +14,7 @@ Cada relación es un archivo `.dart` dentro de la carpeta [`relaciones/`](./rela
 | Relación | Fecha de entrega | Estado | Archivo |
 |----------|------------------|--------|---------|
 | Relación 1 | 13 de noviembre | Subida | [`relacion1.dart`](./relaciones/relacion1.dart) |
-| Relación 2 | 20 de noviembre | Subida | `relacion2.dart` |
+| Relación 2 | 20 de noviembre | Subida | [`relacion2.dart`](./relaciones/relacion2.dart) |
 | Relación 3 | 27 de noviembre | Pendiente | `relacion3.dart` |
 | Relación 4 | 4 de diciembre | Pendiente | `relacion4.dart` |
 
